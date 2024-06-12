@@ -1,0 +1,10 @@
+{
+    "name": "yamato/sf-express-waybill",
+    "description": "A short description",
+    "license": "MIT",
+    "autoload": {
+      "psr-4": {
+        "Yamato\\SFExpress\\": "src"
+      }
+    }
+}
